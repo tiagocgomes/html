@@ -1,2 +1,2 @@
 # javascript
-Meus projetos em JavaScript
+Repositório criado para meus projetos em JavaScript.
