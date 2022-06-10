@@ -1,2 +1,2 @@
-# javascript
-Repositório criado para meus projetos em JavaScript.
+# HTML
+Repositório do meu primeiro projeto em html.
